@@ -27,7 +27,7 @@ logs/ # Optional logs
 README.md
 
 
-## How to Run
+How to Run
 
 1. Generate stock data:
 python data\raw\generate_stock_data.py
